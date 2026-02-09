@@ -1,0 +1,25 @@
+# Virtual environment
+.venvaudio/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
